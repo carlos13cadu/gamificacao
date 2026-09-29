@@ -1,0 +1,9 @@
+# Node / React
+front/node_modules/
+front/dist/
+front/.env*
+
+# C# / .NET
+back/[Bb]in/
+back/[Oo]bj/
+back/appsettings.Development.json

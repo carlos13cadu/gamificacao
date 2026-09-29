@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xhFBcICPNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AZ02602\\Documents\\backend\\GamificacaoApi\\GamificacaoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AZ02602\\.nuget\\packages\\bcrypt.net-next\\4.2.1\\bcrypt.net-next.4.2.1.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\efcore.namingconventions\\9.0.0\\efcore.namingconventions.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.11\\microsoft.aspnetcore.authentication.jwtbearer.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.common\\5.0.0\\microsoft.codeanalysis.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.0.0\\microsoft.codeanalysis.csharp.5.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\5.0.0\\microsoft.codeanalysis.csharp.workspaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\5.0.0\\microsoft.codeanalysis.workspaces.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\5.0.0\\microsoft.codeanalysis.workspaces.msbuild.5.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.11\\microsoft.entityframeworkcore.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.11\\microsoft.entityframeworkcore.abstractions.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.11\\microsoft.entityframeworkcore.analyzers.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.11\\microsoft.entityframeworkcore.design.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.11\\microsoft.entityframeworkcore.relational.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.11\\microsoft.extensions.dependencymodel.10.0.11.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.19.2\\microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.19.2\\microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.logging\\8.19.2\\microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.19.2\\microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.19.2\\microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.19.2\\microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.3\\npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition\\9.0.0\\system.composition.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition.attributedmodel\\9.0.0\\system.composition.attributedmodel.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition.convention\\9.0.0\\system.composition.convention.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition.hosting\\9.0.0\\system.composition.hosting.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512",
+    "C:\\Users\\AZ02602\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.19.2\\system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Versão detectada do pacote fora da restrição de dependência: EFCore.NamingConventions 9.0.0 requer Microsoft.EntityFrameworkCore (>= 9.0.0 && < 10.0.0), mas a versão Microsoft.EntityFrameworkCore 10.0.11 foi resolvida.",
+      "projectPath": "C:\\Users\\AZ02602\\Documents\\backend\\GamificacaoApi\\GamificacaoApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\AZ02602\\Documents\\backend\\GamificacaoApi\\GamificacaoApi.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Versão detectada do pacote fora da restrição de dependência: EFCore.NamingConventions 9.0.0 requer Microsoft.EntityFrameworkCore.Relational (>= 9.0.0 && < 10.0.0), mas a versão Microsoft.EntityFrameworkCore.Relational 10.0.11 foi resolvida.",
+      "projectPath": "C:\\Users\\AZ02602\\Documents\\backend\\GamificacaoApi\\GamificacaoApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\AZ02602\\Documents\\backend\\GamificacaoApi\\GamificacaoApi.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
